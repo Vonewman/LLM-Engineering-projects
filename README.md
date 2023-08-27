@@ -1,6 +1,6 @@
 # Development with Large Language Models
 
-This contains projects on LLMs developement.
+This repository contains projects on LLMs developement.
 We will use tools like OpenAI API, Langchain, Agents and ChromaDB
 
 For the framework that handle the backend and the frontend. 
